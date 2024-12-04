@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recetas.xsl"?>
+<receptes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="recetas.xsd">
+    <recepta>
+        <autor>
+            <nom_persona>Chef Pastoso</nom_persona>
+            <dni>81932732S</dni>
+        </autor>
+        <nom_recepta>Pasta con salsa de coliflor y pimienta de Jamaica</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>4</valor>
+                    <mesura>cucharadas</mesura>
+                </quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Cebolla hermosa</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>500</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Coliflor</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>tazas</mesura>
+                </quantitat>
+                <nom>Caldo vegetal</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>cucharadas</mesura>
+                </quantitat>
+                <nom>Levadura nutricional</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>0.5</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Leche de almendras</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>cucharada</mesura>
+                </quantitat>
+                <nom>Sal</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/u98psdb6e4n6.jpg</imatge>
+        <descripcio>Una salsa vegana para la pasta, tan sobrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en un plato ideal.</descripcio>
+        <passos>
+            <pas>Preparar la cebolla: Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translucida.</pas>
+            <pas>Añadir los ajos: Añadiremos entonces los ajos prensados o picados finos.</pas>
+            <pas>Incluir la coliflor: Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté tierna, seguramente se consumirá gran parte del líquido.</pas>
+            <pas>Añadir el resto de ingredientes: Echaremos la preparación en el vaso de la batidora y añadiremos la leche, la levadura, los granos de pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</pas>
+            <pas>Servir: Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Galletas</nom_persona>
+            <dni>81927287G</dni>
+        </autor>
+        <nom_recepta>Galletas de avena, rosa y lima</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>3/4</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Harina de avena (80g)</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1/4</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Azúcar</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>0.5</valor>
+                    <mesura>cucharada</mesura>
+                </quantitat>
+                <nom>Semillas de lino triturado</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>cucharadas</mesura>
+                </quantitat>
+                <nom>Agua</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>4</valor>
+                    <mesura>gotas</mesura>
+                </quantitat>
+                <nom>Esencia de rosa</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>0.5</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Lima rallada (solo la piel)</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>0.5</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Ágave en polvo edulzante en polvo blanco para decorar (opcional)</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/c36ji0c80fbx.jpg</imatge>
+        <descripcio>
+            Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con rico sabor a rosa y lima son perfectas para celebrarlo!
+        </descripcio>
+        <passos>
+            <pas>
+                Masa: Echaremos todos los ingredientes de la masa de galletas en un bol y amasaremos un poco para que se mezcle todo bien. Dejaremos enfriar un rato en la nevera o unos minutos en el congelador para manipularla mejor y más cómodamente, aunque puede no ser necesario.
+            </pas>
+            <pas>
+                Estirar masa: Estiraremos la masa con un rodillo a un grosor de medio cm y con un cortapastas les haremos la forma, utilizando uno más pequeño para quitar el centro de la mitad de ellas. En el horno previamente caliente, hornearemos a 180ºC hasta que empiecen a estar doradas, más o menos unos 12 minutos, aunque cada horno es diferente y hay que estar al tanto para que no se nos quemen.
+            </pas>
+            <pas>
+                Enfriar: Las sacaremos y las dejaremos enfriar en una rejilla para que queden crujientes. Cuando estén frías, las espolvorearemos con un poco de ágave en polvo, para darle un bonito toque nevadito.
+            </pas>
+            <pas>
+                Mermelada: Para hacer la mermelada, echaremos todos los ingredientes en una olla pequeña, a fuego medio llevaremos a ebullición, bajaremos el fuego y coceremos unos 5 minutos removiendo, hasta que espese un poco. Apagaremos el fuego y dejaremos enfriar, pero no del todo, porque si no se queda dura. Cuando esté templada, pero algo firme, rellenaremos las galletas poniendo una cucharadita en el centro de una sin agujero y cubriendo con una que tenga el hueco para que se vea.
+            </pas>
+            <pas>
+                Guardar: La mermelada en contacto con las galletas hace que si pasan muchas horas hasta su consumo, al aportarles humedad, estas se reblandecen y ya no están crujientes. Por lo que si vas a preparar rellenas, es mejor prepararlas un rato antes de consumirlas, o no rellenarlas, guardarlas en un recipiente hermético, cuando estén frías y preparar el relleno un rato antes de servirlas.
+            </pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Paco</nom_persona>
+            <dni>91727431W</dni>
+        </autor>
+        <nom_recepta>Mijo cremoso con lentejas y sabores del bosque</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>cucharadas</mesura>
+                </quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Cebolla grande</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>dientes</mesura>
+                </quantitat>
+                <nom>Ajo</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>300</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Boniato pelado</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>300</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Coliflor (parte blanca, sin el tronco)</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>500</valor>
+                    <mesura>ml</mesura>
+                </quantitat>
+                <nom>Agua</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>0.5</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Mijo</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>0.5</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Lentejas rojas partidas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>cucharadita</mesura>
+                </quantitat>
+                <nom>Sal</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>5-6</valor>
+                    <mesura>unidades</mesura>
+                </quantitat>
+                <nom>Setas shiitake (unos 100 g)</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Leche de almendras sin endulzar</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>0.5</valor>
+                    <mesura>cucharadita</mesura>
+                </quantitat>
+                <nom>Curry en polvo</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>3</valor>
+                    <mesura>hojas verdes</mesura>
+                </quantitat>
+                <nom>(rúcula o canónigos)</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>aguacate</mesura>
+                </quantitat>
+                <nom>bien verde</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Pipas de calabaza</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>150</valor>
+                    <mesura>ml</mesura>
+                </quantitat>
+                <nom>Cilantro fresco</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Semillas de granada</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>75</valor>
+                    <mesura>ml</mesura>
+                </quantitat>
+                <nom>Aceite de oliva virgen extra crudo</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/76pg0t7s2dsi.jpg</imatge>
+        <descripcio>
+            Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil!
+        </descripcio>
+        <passos>
+            <pas>
+                Cebolla: Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.
+            </pas>
+            <pas>
+                Ajos: Cuando esté bien translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.
+            </pas>
+            <pas>
+                Darle sabor al caldo: Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.
+            </pas>
+            <pas>
+                Últimos toques: Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. Rectificar de sal y tapar para que acabe de hacerse con el calor. Si falta algo de cocción, añadir algo más de líquido y continuar a fuego bajo unos minutos más; también se puede añadir algo más de curry si se desea.
+            </pas>
+            <pas>
+                Decoración: Añadir las guarniciones a la hora de servir y un poquito de aceite de oliva virgen extra por encima.
+            </pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Calamardo</nom_persona>
+            <dni>19387198E</dni>
+        </autor>
+        <nom_recepta>Calabacines rellenos de arroz negro y calabaza</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>unidades</mesura>
+                </quantitat>
+                <nom>Calabacines medianos</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Cebolla mediana</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>cucharadas</mesura>
+                </quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>diente</mesura>
+                </quantitat>
+                <nom>Ajo fresco</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>0.5 - 0.75</valor>
+                    <mesura>cucharadita</mesura>
+                </quantitat>
+                <nom>Canela en polvo</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Calabaza cortada en cubos (cocida al horno o al vapor)</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Arroz negro cocido</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>cucharadas</mesura>
+                </quantitat>
+                <nom>Nata vegetal (como soja o avena)</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>25</valor>
+                    <mesura>mg</mesura>
+                </quantitat>
+                <nom>Sal</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Queso mozzarella rallado o en trozos pequeños</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Parmesano rallado o tallado finamente</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/hpqqikdtoyg4.jpg</imatge>
+        <descripcio>
+            Estos calabacines rellenos de arroz negro y calabaza son una propuesta deliciosa y nutritiva, ideales para una comida reconfortante y llena de sabor. Una receta perfecta para compartir en cualquier ocasión.
+        </descripcio>
+        <passos>
+            <pas>
+                Hornear calabacines: En un horno precalentado a 180ºC, coloca los calabacines partidos por la mitad en una bandeja con un poco de aceite para que no se peguen. Hornea durante 1 hora aproximadamente, hasta que estén tiernos pero firmes.
+            </pas>
+            <pas>
+                Hornear la calabaza: Al mismo tiempo, hornea los cubos de calabaza hasta que estén suaves y ligeramente dorados, removiendo si es necesario para evitar que se quemen. Si prefieres, cocínalos al vapor.
+            </pas>
+            <pas>
+                Cocer el arroz: Cocina el arroz negro en proporción 1:2¼ de agua después de lavarlo bien, hasta que el líquido se haya absorbido por completo.
+            </pas>
+            <pas>
+                Quitar la pulpa: Una vez que los calabacines estén listos, retira la pulpa con una cuchara, cuidando de no romper la piel, y resérvala.
+            </pas>
+            <pas>
+                Sofreír: En una sartén, sofríe la cebolla picada en un poco de aceite hasta que esté transparente. Añade el ajo triturado, la calabaza cocida, la pulpa de los calabacines, la canela, la nata vegetal y la sal. Mezcla bien y cocina durante unos minutos hasta integrar los sabores.
+            </pas>
+            <pas>
+                Rellenar: Rellena los calabacines con la mezcla, dejando espacio para colocar encima un poco de arroz negro cocido. Agrega queso mozzarella y parmesano rallado al gusto.
+            </pas>
+            <pas>
+                Gratinar y servir: Gratina los calabacines en el horno hasta que el queso esté derretido y dorado. Sirve con cilantro fresco o tu hierba aromática favorita para decorar.
+            </pas>
+        </passos>
+    </recepta>    
+    <recepta>
+        <autor>
+            <nom_persona>Chef Vegano</nom_persona>
+            <dni>12345678A</dni>
+        </autor>
+        <nom_recepta>Tacos de Jackfruit a la BBQ</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>lata</mesura>
+                </quantitat>
+                <nom>Jackfruit</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>ml</mesura>
+                </quantitat>
+                <nom>Salsa BBQ</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/u8danncdzl93.png</imatge>
+        <descripcio>
+            Deliciosos tacos con jackfruit desmenuzado y marinado en una salsa BBQ casera. Acompañados de cebolla morada y cilantro fresco, son la opción ideal para una cena rápida y sabrosa. El jackfruit tiene una textura similar a la carne deshebrada, ¡pero es completamente vegetal! Perfectos para los amantes de los sabores intensos. Sirve con tortillas de maíz y una rodaja de limón.
+        </descripcio>
+        <passos>
+            <pas>Escurre el jackfruit y desmenúzalo.</pas>
+            <pas>Cocina el jackfruit en una sartén con salsa BBQ.</pas>
+            <pas>Sirve en tortillas con tus toppings favoritos.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Mediterráneo</nom_persona>
+            <dni>87654321B</dni>
+        </autor>
+        <nom_recepta>Ensalada de Garbanzos Mediterránea</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Garbanzos cocidos</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Pepino</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Tomates cherry</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/cyw99lmwldym.png</imatge>
+        <descripcio>
+            Una ensalada refrescante y colorida, llena de garbanzos, tomate, pepino, cebolla morada y aceitunas negras. Se aliña con aceite de oliva, limón y un toque de orégano, recordando a los sabores del Mediterráneo. Ideal para un almuerzo ligero y saludable. Rica en proteínas y fibra, te dejará saciado por horas. ¡Perfecta para llevar!
+        </descripcio>
+        <passos>
+            <pas>Corta el pepino y los tomates en trozos pequeños.</pas>
+            <pas>Mezcla con los garbanzos en un bol.</pas>
+            <pas>Añade aceite de oliva, jugo de limón y sal al gusto.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Creativo</nom_persona>
+            <dni>23456789C</dni>
+        </autor>
+        <nom_recepta>Hamburguesas de Quinoa y Espinacas</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>150</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Quinoa</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Espinacas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>50</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Pan rallado</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/sg1h98v69blc.png</imatge>
+        <descripcio>
+            Estas hamburguesas son crujientes por fuera y suaves por dentro, hechas con quinoa cocida, espinacas frescas y especias. Son ideales para acompañar con tus toppings favoritos, desde aguacate hasta tomate fresco. Una opción nutritiva y baja en grasa, ideal para la parrilla o para hacer al horno. Son ricas en proteínas completas gracias a la quinoa. ¡Disfrútalas en pan integral!
+        </descripcio>
+        <passos>
+            <pas>Cocina la quinoa según las instrucciones del paquete.</pas>
+            <pas>Sofríe las espinacas y mézclalas con la quinoa.</pas>
+            <pas>Forma hamburguesas, cúbrelas con pan rallado y cocínalas en la sartén.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <nom_recepta>Curry de Lentejas Rojas y Coco</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Lentejas rojas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>400</valor>
+                    <mesura>ml</mesura>
+                </quantitat>
+                <nom>Leche de coco</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>cucharaditas</mesura>
+                </quantitat>
+                <nom>Curry en polvo</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/m2f55o6ejtf6.png</imatge>
+        <descripcio>
+            Un curry cremoso, lleno de sabor y especias, perfecto para los días frescos. Las lentejas rojas se cocinan rápidamente y se mezclan con leche de coco, curry, jengibre y ajo. Este plato es reconfortante y saciante, perfecto para una comida nutritiva. Acompáñalo con arroz basmati o naan para una experiencia completa. ¡Te sorprenderá su sabor exótico!                
+        </descripcio>
+        <passos>
+            <pas>Sofríe cebolla y ajo en una sartén.</pas>
+            <pas>Añade las lentejas, la leche de coco y el curry.</pas>
+            <pas>Cocina a fuego lento hasta que las lentejas estén tiernas.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Saludable</nom_persona>
+            <dni>45678901E</dni>
+        </autor>
+        <nom_recepta>Wraps de Hummus y Vegetales</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>tortillas</mesura>
+                </quantitat>
+                <nom>Tortillas de trigo</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>4</valor>
+                    <mesura>cucharadas</mesura>
+                </quantitat>
+                <nom>Hummus</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Zanahoria rallada</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/ees5r2e6h23j.png</imatge>
+        <descripcio>
+            Wraps frescos y coloridos, rellenos de hummus cremoso, zanahorias ralladas, pepino y espinacas. Puedes agregar aguacate y tomate para darle más textura. Son una opción ligera y fácil de preparar para el almuerzo. Los wraps son perfectos para llevar y no requieren mucho tiempo de preparación. Ideales para un snack saludable y lleno de sabor.
+        </descripcio>
+        <passos>
+            <pas>Unta hummus sobre las tortillas.</pas>
+            <pas>Coloca los vegetales rallados encima.</pas>
+            <pas>Enrolla las tortillas y córtalas en mitades.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Mexicano</nom_persona>
+            <dni>56789012F</dni>
+        </autor>
+        <nom_recepta>Burritos de Frijoles Negros y Arroz Integral</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Frijoles negros cocidos</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Arroz integral cocido</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>tortillas grandes</mesura>
+                </quantitat>
+                <nom>Tortillas</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/n0cu3kni6gox.png</imatge>
+        <descripcio>
+            Burritos veganos rellenos de frijoles negros, arroz integral, maíz y pimientos. Todo se mezcla con especias mexicanas para un sabor auténtico. Son ricos en proteínas y fibra, perfectos para un almuerzo completo. Puedes añadir guacamole para un toque extra de cremosidad. ¡Un platillo saciante y lleno de energía!
+        </descripcio>
+        <passos>
+            <pas>Calienta los frijoles y el arroz.</pas>
+            <pas>Coloca los frijoles y arroz en el centro de las tortillas.</pas>
+            <pas>Envuelve las tortillas formando burritos.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <nom_recepta>Sopa de Calabaza y Jengibre</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>kg</mesura>
+                </quantitat>
+                <nom>Calabaza</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>cucharadita</mesura>
+                </quantitat>
+                <nom>Jengibre fresco rallado</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>500</valor>
+                    <mesura>ml</mesura>
+                </quantitat>
+                <nom>Caldo de verduras</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/ka9mpvwuni0s.png</imatge>
+        <descripcio>
+            Una sopa cremosa y reconfortante con el toque especial del jengibre. La calabaza le da una textura suave y un sabor ligeramente dulce. Ideal para los días fríos, esta sopa es nutritiva y fácil de digerir. Puedes añadirle semillas de calabaza tostadas para un toque crujiente. ¡Perfecta como primer plato o cena ligera!
+        </descripcio>
+        <passos>
+            <pas>Pela y corta la calabaza en trozos.</pas>
+            <pas>Cocina la calabaza con el caldo y el jengibre.</pas>
+            <pas>Tritura hasta obtener una textura suave.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Italiano</nom_persona>
+            <dni>78901234H</dni>
+        </autor>
+        <nom_recepta>Pizza Vegana de Pesto y Vegetales</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Masa de pizza</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Pesto vegano</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>150</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Vegetales variados</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/crtcka4oa3du.png</imatge>
+        <descripcio>
+            Una pizza única con base de pesto de albahaca en lugar de salsa de tomate, cubierta con vegetales frescos como champiñones, pimientos y espárragos. La masa puede ser integral o sin gluten, según prefieras. Ideal para una cena creativa y llena de sabor. Añade un poco de queso vegano si deseas. ¡Un cambio delicioso y saludable de la pizza tradicional!
+        </descripcio>
+        <passos>
+            <pas>Unta el pesto sobre la masa de pizza.</pas>
+            <pas>Añade los vegetales cortados en rodajas.</pas>
+            <pas>Hornea a 200 °C durante 15 minutos.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Cremoso</nom_persona>
+            <dni>89012345I</dni>
+        </autor>
+        <nom_recepta>Macarrones Cremosos con Anacardos</nom_recepta>
+        <imatge>https://r2.fivemanage.com/pub/6qrrf7op8bpu.png</imatge>
+        <descripcio>
+            Macarrones con una salsa cremosa hecha a base de anacardos y levadura nutricional. La textura es rica y suave, perfecta para los amantes de la pasta. Esta versión vegana del clásico "mac and cheese" es mucho más saludable y ligera. Acompáñalos con un poco de perejil fresco. ¡Un platillo que reconforta y encanta a todos!
+        </descripcio>
+        <passos>
+            <pas>Cocina los macarrones en agua con sal.</pas>
+            <pas>Licúa los anacardos con ajo y agua hasta obtener una crema.</pas>
+            <pas>Mezcla la crema con los macarrones cocidos.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Casero</nom_persona>
+            <dni>90123456J</dni>
+        </autor>
+        <nom_recepta>Albóndigas de Berenjena y Lentejas</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>unidades</mesura>
+                </quantitat>
+                <nom>Berenjenas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Lentejas cocidas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>50</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Pan rallado</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/qi68abc9er4y.png</imatge>
+        <descripcio>
+            Albóndigas veganas hechas con berenjena asada y lentejas cocidas, sazonadas con hierbas y especias. Tienen una textura jugosa y un sabor profundo, perfectas para acompañar con salsa marinara. Son ideales para servir con pasta o en un sándwich. Una alternativa deliciosa y nutritiva a las albóndigas tradicionales. ¡Ricas en fibra y sabor!
+        </descripcio>
+        <passos>
+            <pas>Asa las berenjenas y tritúralas con las lentejas.</pas>
+            <pas>Forma albóndigas y cúbrelas con pan rallado.</pas>
+            <pas>Hornea o fríe las albóndigas hasta dorarlas.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Confort</nom_persona>
+            <dni>01234567K</dni>
+        </autor>
+        <nom_recepta>Pastel de Papa con Lentejas</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>4</valor>
+                    <mesura>unidades</mesura>
+                </quantitat>
+                <nom>patatas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Lentejas cocidas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Cebolla</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/fsbnfb48lvkm.png</imatge>
+        <descripcio>
+            Un pastel reconfortante, con capas de puré de papa cremoso y un relleno de lentejas, zanahorias y apio. Este plato es perfecto para compartir en familia y sirve como plato principal. Rico en proteínas vegetales, es ideal para cenas o almuerzos especiales. Tiene un sabor suave y aromático gracias a las hierbas. ¡Una delicia al horno!
+        </descripcio>
+        <passos>
+            <pas>Haz un puré con las papas cocidas.</pas>
+            <pas>Sofríe las lentejas con cebolla picada.</pas>
+            <pas>Coloca las lentejas en un molde y cubre con el puré.</pas>
+            <pas>Hornea a 180 °C por 20 minutos.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <nom_recepta>Curry de Garbanzos con Espinacas</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Garbanzos cocidos</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Espinacas frescas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>cucharaditas</mesura>
+                </quantitat>
+                <nom>Curry en polvo</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/sdizvhf3tqck.png"</imatge>
+        <descripcio>s
+            Garbanzos y espinacas cocinados en una salsa de tomate especiada, con un toque de leche de coco. Este curry es aromático y tiene un sabor ligeramente picante. Perfecto para disfrutar con arroz o pan naan. Es una receta sencilla pero llena de nutrientes y sabor. ¡Una explosión de especias y colores!
+        </descripcio>
+        <passos>
+            <pas>Sofríe ajo y cebolla en una sartén.</pas>
+            <pas>Añade los garbanzos, las espinacas y el curry.</pas>
+            <pas>Cocina a fuego lento durante 10 minutos.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Verde</nom_persona>
+            <dni>23456789M</dni>
+        </autor>
+        <nom_recepta>Ensalada de Pasta con Pesto de Aguacate</nom_recepta>
+        <imatge>https://r2.fivemanage.com/pub/86wu7ptpdbpo.png</imatge>
+        <descripcio>
+            Una ensalada refrescante con pasta al dente, cubierta con un cremoso pesto de aguacate. Lleva tomates cherry, pepino y hojas de albahaca fresca. Es ideal para disfrutar fría, perfecta para los días de calor. Rica en grasas saludables y muy saciante. ¡Fácil de preparar y deliciosa!
+        </descripcio>
+        <passos>
+            <pas>Cocina la pasta y déjala enfriar.</pas>
+            <pas>Licúa el aguacate, la albahaca y un poco de aceite de oliva.</pas>
+            <pas>Mezcla la pasta con el pesto y sirve.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Mexicano</nom_persona>
+            <dni>34567890N</dni>
+        </autor>
+        <nom_recepta>Burritos de Tofu y Verduras</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>150</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Tofu</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>tortillas</mesura>
+                </quantitat>
+                <nom>Tortillas grandes</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Verduras salteadas</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/8lao47ks1x2j.png</imatge>
+        <descripcio>
+            Burritos llenos de tofu sazonado, pimientos, cebolla y espinacas frescas. Se envuelven en tortillas y se pueden disfrutar calientes o fríos. Son una opción completa y nutritiva para un almuerzo rápido. Puedes añadir salsa picante para un toque extra de sabor. ¡Perfectos para llevar!
+        </descripcio>
+        <passos>
+            <pas>Desmenuza el tofu y saltéalo con especias.</pas>
+            <pas>Añade las verduras salteadas al tofu.</pas>
+            <pas>Rellena las tortillas con la mezcla y enrolla.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Asiático</nom_persona>
+            <dni>45678901O</dni>
+        </autor>
+        <nom_recepta>Pad Thai Vegano con Tofu</nom_recepta>
+        <imatge>https://r2.fivemanage.com/pub/1lulk27dv6t1.png</imatge>
+        <descripcio>
+            Un plato clásico tailandés, hecho con fideos de arroz, tofu y vegetales crujientes, en una salsa agridulce. El toque de cacahuetes triturados y cilantro fresco lo hace irresistible. Es un platillo exótico y lleno de sabor que puedes hacer en minutos. ¡Ideal para cenas especiales en casa!
+        </descripcio>
+        <passos>
+            <pas>Cocina los fideos de arroz según las instrucciones.</pas>
+            <pas>Saltea el tofu y añade salsa de soja.</pas>
+            <pas>Mezcla los fideos con el tofu y sirve.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Tradicional</nom_persona>
+            <dni>56789012P</dni>
+        </autor>
+        <nom_recepta>Estofado de Vegetales al Curry</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>3</valor>
+                    <mesura>unidades</mesura>
+                </quantitat>
+                <nom>Zanahorias</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>unidades</mesura>
+                </quantitat>
+                <nom>Papas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>cucharada</mesura>
+                </quantitat>
+                <nom>Curry en polvo</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/nliv3f8ghw5m.png</imatge>
+        <descripcio>
+            Un estofado reconfortante con papas, zanahorias, calabacín y otras verduras al gusto, en una salsa de curry. Es un plato completo y nutritivo, perfecto para el invierno. Tiene un sabor suave y especiado que encanta a todos. Puedes acompañarlo con arroz o pan. ¡Sano y delicioso!
+        </descripcio>
+        <passos>
+            <pas>Pela y corta los vegetales en trozos grandes.</pas>
+            <pas>Cocina los vegetales con agua y curry hasta que estén tiernos.</pas>
+            <pas>Sazona al gusto y sirve caliente.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <nom_recepta>Panqueques de Banana y Avena</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Banana</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Avena</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>ml</mesura>
+                </quantitat>
+                <nom>Leche vegetal</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/7lr1qo3pda6k.png</imatge>
+        <descripcio>
+            Panqueques ligeros y esponjosos, hechos con banana madura y avena molida. Son perfectos para un desayuno saludable y fácil de preparar. Puedes acompañarlos con fruta fresca y un toque de miel de maple. Ricos en fibra y sin gluten, son ideales para toda la familia. ¡Un desayuno clásico y saludable!
+        </descripcio>
+        <passos>
+            <pas>Mezcla la banana triturada con la avena y leche vegetal.</pas>
+            <pas>Vierte la mezcla en una sartén caliente formando los panqueques.</pas>
+            <pas>Cocina por ambos lados hasta dorar.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef de la Tierra</nom_persona>
+            <dni>78901234R</dni>
+        </autor>
+        <nom_recepta>Empanadas de Verduras y Espinacas</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Masa para empanadas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Espinacas cocidas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Cebolla</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/ewh5q02xqv56.png</imatge>
+        <descripcio>
+            Empanadas al horno, rellenas de espinacas, cebolla y pimientos. La masa puede ser integral o sin gluten, según prefieras. Son ideales como snack o aperitivo para cualquier ocasión. Su sabor es suave y delicioso, perfecto para compartir. ¡Ricas y sin complicaciones!
+        </descripcio>
+        <passos>
+            <pas>Saltea la cebolla y mezcla con las espinacas cocidas.</pas>
+            <pas>Rellena las empanadas con la mezcla.</pas>
+            <pas>Hornea o fríe hasta que estén doradas.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Exótico</nom_persona>
+            <dni>89012345S</dni>
+        </autor>
+        <nom_recepta>Smoothie Bowl de Frutas y Chía</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Banana</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Frutas mixtas congeladas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>cucharada</mesura>
+                </quantitat>
+                <nom>Chía</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/th2zn9isoe4d.png</imatge>
+        <descripcio>
+            Un bowl lleno de color y sabor, hecho con un smoothie espeso de frutas como mango, banana y frutos rojos. Se decora con semillas de chía, granola y más frutas frescas. Es perfecto para un desayuno energético y lleno de nutrientes. ¡Fácil de personalizar a tu gusto!
+        </descripcio>
+        <passos>
+            <pas>Licúa la banana con las frutas mixtas y un poco de leche vegetal.</pas>
+            <pas>Sirve en un bowl y decora con chía y otros toppings a elección.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Sabroso</nom_persona>
+            <dni>90123456T</dni>
+        </autor>
+        <nom_recepta>Guiso de Batatas y Garbanzos</nom_recepta>
+        <imatge>https://r2.fivemanage.com/pub/zjcagu0e9tkl.png</imatge>
+        <descripcio>
+            Un guiso nutritivo y reconfortante con batatas, garbanzos y espinacas. Se cocina a fuego lento con especias como cúrcuma y comino. Es ideal para una comida completa y saludable. Rico en fibra y antioxidantes, es perfecto para los días frescos. ¡Llena de sabor y fácil de hacer!
+        </descripcio>
+        <passos>
+            <pas>Pela y corta las batatas en trozos pequeños.</pas>
+            <pas>Saltea las batatas con los garbanzos y el comino.</pas>
+            <pas>Cocina a fuego lento hasta que las batatas estén tiernas.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <nom_recepta>Raviolis de Espinacas y Ricotta Vegana</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Raviolis</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Espinacas cocidas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>50</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Ricotta vegana</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/4hnzldutxd0h.png</imatge>
+        <descripcio>
+            Raviolis caseros rellenos de una mezcla de espinacas y ricotta vegana hecha con tofu. Son suaves y se pueden acompañar con salsa de tomate o pesto. Ideales para una cena especial, son ligeros y llenos de sabor. ¡Perfectos para quienes aman la pasta!
+        </descripcio>
+        <passos>
+            <pas>Cocina los raviolis según las instrucciones.</pas>
+            <pas>Mezcla las espinacas con la ricotta vegana.</pas>
+            <pas>Sirve los raviolis con la mezcla de espinacas y ricotta encima.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Mediterráneo</nom_persona>
+            <dni>12345678V</dni>
+        </autor>
+        <nom_recepta>Cazuela de Calabacín y Tomate</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>unidades</mesura>
+                </quantitat>
+                <nom>Calabacines</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>3</valor>
+                    <mesura>unidades</mesura>
+                </quantitat>
+                <nom>Tomates</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>cucharadita</mesura>
+                </quantitat>
+                <nom>Ajo en polvo</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/qljx901731y5.png</imatge>
+        <descripcio>
+            Un plato al horno con calabacín, tomate y hierbas frescas, cubierto con un toque de pan rallado y aceite de oliva. Es una opción ligera y llena de sabor mediterráneo. Ideal como acompañamiento o plato principal. ¡Delicioso y fácil de hacer!
+        </descripcio>
+        <passos>
+            <pas>Corta el calabacín y el tomate en rodajas.</pas>
+            <pas>Colócalos en una cazuela, añade el ajo y hornea a 180°C durante 25 minutos.</pas>
+            <pas>Sirve caliente.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef de Postres</nom_persona>
+            <dni>23456789W</dni>
+        </autor>
+        <nom_recepta>Tarta de Manzana y Almendra</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>manzanas</mesura>
+                </quantitat>
+                <nom>Manzanas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Almendras molidas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>cucharada</mesura>
+                </quantitat>
+                <nom>Canela</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/tovn4d17ypld.png</imatge>
+        <descripcio>
+            Tarta suave y esponjosa, con manzanas caramelizadas y un toque de almendras en la masa. Es perfecta para el postre o para acompañar el té. Sin lácteos y sin huevos, pero llena de sabor. ¡Una opción dulce y saludable!
+        </descripcio>
+        <passos>
+            <pas>Precalienta el horno a 180°C y prepara la base de tarta.</pas>
+            <pas>Coloca las manzanas cortadas en la base y espolvorea con almendras molidas y canela.</pas>
+            <pas>Hornea durante 30 minutos.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Creativo</nom_persona>
+            <dni>34567890X</dni>
+        </autor>
+        <nom_recepta>Albóndigas de Garbanzos y Zanahoria</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>300</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Garbanzos cocidos</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Zanahoria</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>cucharada</mesura>
+                </quantitat>
+                <nom>Perejil fresco</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/gxo5gr5hh8so.png</imatge>
+        <descripcio>
+            Albóndigas veganas, hechas con garbanzos, zanahorias y especias. Son crujientes por fuera y suaves por dentro, perfectas para acompañar con salsa de tomate. Ideales para servir con pasta o en un sándwich. ¡Ricas en proteínas y fibra!
+        </descripcio>
+        <passos>
+            <pas>Tritura los garbanzos y mezcla con zanahoria rallada y perejil.</pas>
+            <pas>Forma albóndigas y fríelas o hornéalas hasta dorar.</pas>
+            <pas>Sirve con tu salsa preferida.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>Chef Rústico</nom_persona>
+            <dni>45678901Y</dni>
+        </autor>
+        <nom_recepta>Tortitas de Papa y Cebolla</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>3</valor>
+                    <mesura>unidades</mesura>
+                </quantitat>
+                <nom>Papas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Cebolla</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>cucharadita</mesura>
+                </quantitat>
+                <nom>Sal</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/kif42bkzm038.png</imatge>
+        <descripcio>
+            Tortitas doradas y crujientes, hechas con papas ralladas y cebolla. Son perfectas para un snack o como acompañamiento. Puedes acompañarlas con salsa o guacamole. Son fáciles de hacer y llenas de sabor. ¡Un clásico irresistible!
+        </descripcio>
+        <passos>
+            <pas>Pela y ralla las papas, luego mezcla con cebolla picada.</pas>
+            <pas>Forma pequeñas tortitas y fríelas en aceite caliente.</pas>
+            <pas>Escurre sobre papel absorbente y sirve.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <nom_recepta>Pizza de Coliflor y Queso Vegano</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Coliflor</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>g</mesura>
+                </quantitat>
+                <nom>Queso vegano</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>cucharada</mesura>
+                </quantitat>
+                <nom>Tomate triturado</nom>
+            </ingredient>
+        </ingredients>
+        <imatge>https://r2.fivemanage.com/pub/mezvuqnzvt8p.png</imatge>
+        <descripcio>
+            Una pizza ligera y crujiente, con base de coliflor y cubierta con queso vegano, tomate y albahaca. Es una alternativa baja en carbohidratos y llena de sabor. Ideal para quienes buscan una opción de pizza saludable. ¡Sencilla y deliciosa!
+        </descripcio>
+        <passos>
+            <pas>Precalienta el horno a 200°C y prepara la base de pizza con coliflor rallada.</pas>
+            <pas>Esparce tomate triturado sobre la base, luego agrega el queso vegano.</pas>
+            <pas>Hornea durante 15-20 minutos y sirve.</pas>
+        </passos>
+    </recepta>
+</receptes>

@@ -1,0 +1,570 @@
+
+/*General*/
+body {
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    height: 100vh;
+    padding-top: 50px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.lineascabezera {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+ul {
+    list-style-type: none;
+
+}
+.menu {
+    position: s;
+    top: 0;
+    z-index: 1000;
+    padding: 10px;
+    background-color: white;
+    width: 100%; /* Cambiado a 100% para ocupar toda la pantalla */
+    text-align: center;
+}
+
+
+.arriba {
+    display: inline;
+    margin: 0 15px;
+    font-size: 18px;
+    text-align: center;
+}
+.cabezera {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.38s ease;
+}
+.cabezera:hover{
+    color: #7ABA96;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.abajo{
+    display: inline;
+    margin: 15px;
+    font-size: 18px;
+    text-align: center;
+}
+.recuadronegro{
+    background-color: black;
+    width: 96%;
+    padding: 1cm;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    margin-top: 2%;
+}
+.pie {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.pie:hover{
+    color: white;
+}
+/*Main*/
+
+main{
+    margin-left: 12%;
+    margin-right: 12%;
+    text-align: center;
+    display: flex;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+div#capsa_esquerra{
+    width: 15%;
+    padding-right: 4%;
+}
+
+
+div#caja_recetas{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+div#receta{
+    width: 45%;
+    margin-bottom: 50px;
+    padding-left: 1%;
+    padding-right: 3%;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+div#receta img{
+    width: 100%;   
+}
+
+div#Data{
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 0.5px solid #7ABA96;
+    border-right: 0px;
+    border-left: 0px;
+}
+
+.divdeizquierda {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    width: 100%;
+    max-height: 80%;
+    height: auto;    
+}
+
+.apuntame {
+    background-color: #7ABA96;
+    font-weight: bold;
+    width: auto;
+    padding: 5px;
+    transition: 0.4s ease;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+.apuntame:hover{
+    background-color: #7ABA96;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 8);
+}
+.textoapuntar{
+    color: black;
+    text-decoration: none;
+    transition: color 0.38s ease;
+}
+.textoapuntar:hover{
+    color: white;
+}
+.titulos{
+    margin: 1%;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+}
+.tituloenlaze{
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    transition: color 0.4s ease;
+}
+.tituloenlaze:hover{
+    color: rgb(179, 179, 127);
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    height: auto;           
+}
+
+.flex-image {
+    max-width: 80%;
+    height: auto;    
+}
+.textogris {
+    color: rgb(129, 128, 128);
+    font-size: 16px;
+    
+}
+.textoentrelineas {
+    padding: 0px;
+    margin: 0px;
+    font-size:13px;
+}
+
+.recuadrogris {
+    background-color: rgb(211, 206, 206);
+    text-align: center;
+    width: 30%;
+    flex-wrap: wrap;
+}
+
+
+/*AboutMe*/
+
+.divaboutme {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 200px;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 130px;
+}
+
+.divderecha {
+    width: 100%;
+}
+
+.imgaboutme {
+    float: right;
+    margin-right: 15px;
+    max-width: 30%;
+    width: auto;
+    height: auto;
+    margin: 20px;
+}
+
+.divizquierda {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    max-height: 90%;
+    height: auto;  
+}
+
+.textoaboutme {
+    font-size: auto;
+}
+
+/*Recetas lista*/
+
+.maintitulo {
+    font-size: 30px;
+    color: #7ABA96;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    font-family: "Pacifico", cursive;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.tituloreceta {
+    font-size: 19px;
+    color: #7ABA96;
+    text-decoration: underline;
+    font-weight: bold;
+    margin: 0%;
+    margin-bottom: 1%;
+    font-family: "Shadows Into Light", cursive;
+    font-style: normal;
+    transition: color 0.28s ease;
+}
+.tituloreceta:hover{
+    color: #8A8070;
+}
+
+.debajotitulo{
+    font-style: italic;
+    margin: 0%;
+    margin-bottom: 1%;
+    font-size: 18px;
+}
+.divinfo{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 0%;
+}
+.spantexto{
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+.recetasmaindiv{
+    background-color: #f0f0f0;
+    margin: 5%;
+    margin-top: 2%;
+    width: 60%;
+    padding: 2%;
+}
+.imgvaloracion{
+    max-width: 100px;
+}
+
+.divflex-recetas {
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: auto;
+    gap: 100px;           
+}
+
+.flex-recetas {
+    width: 30%;
+    height: auto;
+    align-items: left;    
+}
+
+.divtextoimg{
+    text-align: right;
+    width: 80%;
+    height: 60%;
+}
+.textorecetas{
+    font-size: 17px;
+}
+
+.construcciondiv{
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: auto;
+    gap: 100px; 
+}
+.construccionimg{
+    max-width: 100%;
+    height: auto;
+}
+
+.divvolver{
+    background-color: #d1cdcd;
+    color: black;
+    font-size: 18px;
+    padding: 20px;
+    margin: 20px;
+    gap: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+.avolver{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    justify-content: center;
+    text-align: center;
+    transition: 0.3s ease;
+    transition: color 0.38s ease;
+    border-radius: 10px;
+}
+.avolver:hover{
+    color: white;
+    background-color: #7ABA96;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    font-weight: bold;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.8);
+}
+.textotitu{
+    color: #7ABA96;
+    text-align: center;
+}
+.paginactual{
+    background-color: #7ABA96;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    text-decoration: none;
+    transition: 0.3 ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+/*Recetas individuales*/
+.tituloverde{
+    color: #7ABA96;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 40px;
+    margin-top: 0%;
+}
+.divrecetas{
+    width: 80%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.divdescripcion{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #e6e3e3;
+    padding: 2px;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    max-width: 60%;
+}
+.descripcion{
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 1%;
+    font-size: 21px;
+    color: #7ABA96;
+}
+.subtitulo{
+    color: #7ABA96;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 30px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.listaingredientes{
+    text-align:left;
+    justify-content: center;
+    align-items: center;
+    color: #527c64;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.divingredientes{
+    background-color: #e6e3e3;
+    padding: 2px;
+    margin: 1%;
+    max-width: 30%;
+}
+.divpasos{
+    background-color: #e6e3e3;
+    padding: 8px;
+    margin: 1%;
+    max-width: 60%;
+}
+.pasos{
+    text-align:left;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.spanpasos{
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+/*Contact*/
+.form{
+    width: 300px;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    background-color: #f9f9f9;
+}
+
+.label{
+    display: block;
+    margin-top: 10px;
+}
+input[type="text"],
+input[type="email"],
+textarea,
+select{
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    margin-top: 15px;
+    padding: 10px;
+    width: 100%;
+    background-color: #7ABA96;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.texto{
+    font-size: 20px;
+    text-align: center;
+}
+.divcontact{
+    width: 80%;
+    margin-bottom: 90px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divformu{
+    width: 60%;
+    margin-right:100px;
+    margin-bottom: 30px;
+}
+.divlibro {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    width: 20%;
+    max-height: 80%;
+    height: auto;    
+}
+/*Another things*/
+.consejos-salud p {
+    font-size: 1.1em;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.calendario-temporada {
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.calendario-temporada th,
+.calendario-temporada td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.calendario-temporada th {
+    background-color: #7ABA96;
+    color: white;
+    font-weight: bold;
+}
+
+.calendario-temporada td {
+    background-color: #f9f9f9;
+}
+.divajustar{
+    width: 80%;
+    margin: 20%;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+/*apuntame*/
+.divapuntame{
+    max-width: 80%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 25%;
+}

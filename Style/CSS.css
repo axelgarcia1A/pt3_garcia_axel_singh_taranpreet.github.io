@@ -196,6 +196,98 @@ div#Data{
     width: 30%;
     flex-wrap: wrap;
 }
+@media (max-width: 768px) {
+    /* Para #capsa_esquerra */
+    #capsa_esquerra {
+        width: 100%; /* Hace que ocupe todo el ancho */
+        padding-right: 0; /* Elimina el padding derecho */
+        margin-bottom: 20px; /* Espaciado entre los divs */
+        box-sizing: border-box; /* Asegura que el padding no afecte el tamaño */
+    }
+
+    /* Para #caja_recetas */
+    #caja_recetas {
+        display: flex;
+        flex-direction: column; /* Apilar los divs en columna */
+        width: 100%;
+        padding: 10px;
+        justify-content: flex-start;
+        align-items: stretch; /* Los divs ocuparán todo el ancho */
+    }
+
+    /* Ajustar los elementos de #receta */
+    #receta {
+        width: 100%; /* Cada receta ocupa el 100% del ancho */
+        margin-bottom: 20px; /* Espaciado entre los divs */
+        padding: 10px; /* Añadir algo de espacio interno */
+    }
+
+    /* Hacer que las imágenes se ajusten bien */
+    #receta img {
+        width: 100%; /* Asegura que las imágenes no se desborden */
+        height: auto; /* Mantiene la proporción de las imágenes */
+    }
+
+    /* Ajustes a los textos dentro de los divs */
+    .titulos {
+        font-size: 16px; /* Reducir el tamaño de fuente en pantallas pequeñas */
+        text-align: center;
+        margin: 10px 0;
+    }
+
+    .textogris {
+        font-size: 9px; /* Reducir el tamaño de fuente */
+        color: rgb(129, 128, 128);
+        margin: 10px 0;
+    }
+
+    .textoentrelineas {
+        font-size: 12px; /* Reducir el tamaño de fuente */
+        margin: 5px 0;
+    }
+
+    /* Ajustes en el botón de suscripción */
+    .apuntame {
+        width: 100%; /* Hace que el botón ocupe el 100% del ancho */
+        text-align: center;
+        padding: 10px;
+        margin-top: 10px;
+    }
+
+    .apuntame a {
+        display: block;
+        width: 100%; /* Asegura que el enlace se ajuste al tamaño del div */
+    }
+
+    /* Ajuste de las imágenes de la sección 'Sobre mi' */
+    .flex-container img {
+        width: 80%; /* La imagen de perfil debe ser más pequeña */
+        height: auto;
+        margin: 10px auto; /* Centrado de la imagen */
+    }
+
+    /* Hacer que el texto en 'Sobre mi' no se desborde */
+    #text {
+        font-size: 10px; /* Reducir el tamaño de fuente */
+        margin: 10px;
+        padding: 10px;
+    }
+    .textoapuntar {
+        color: black; /* El texto dentro del enlace será blanco */
+        text-decoration: none; /* Sin subrayado en el texto */
+        font-size: 9px; /* Ajuste de tamaño de texto */
+        transition: color 0.38s ease;
+    }
+
+    .textoapuntar:hover {
+        color: #f5f5f5; /* Cambio de color al hacer hover */
+    }
+    .titulos{
+        font-size: 10px;
+        text-align: center;
+    }
+}
+
 
 
 /*AboutMe*/
